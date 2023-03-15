@@ -7,9 +7,12 @@
 This github repository contains a collection of direct links to security configuration blades in Azure/365. 
 
 
-> 🔗 ... [RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools)
+> 🔗 
+> 
+> ...
 
-> **Warning** 
+> **Warning**
+> 
 > *....*
 
 > **Note** 
