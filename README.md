@@ -18,7 +18,6 @@ This github repository contains a collection of direct links to security configu
 > 
 
 > *Click 🔙 to get back to the list.*
-# List
 
 <details open>
     <summary><b>Azure</b></summary>
