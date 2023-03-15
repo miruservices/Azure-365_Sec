@@ -1,7 +1,7 @@
 # Azure / 365 Sec Links
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/100603074/210680535-40d8c113-2336-4417-bdb4-4825a7477164.png" height="300">
+<img src="https://github.com/miruservices/Azure-365-Sec-Links/blob/main/Microsoft_Azure.svg.png" height="300">
 </p> 
 
 This github repository contains a collection of direct links to security configuration blades in Azure/365. 
