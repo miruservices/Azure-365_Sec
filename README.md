@@ -38,8 +38,7 @@ This github repository contains a collection of direct links to security configu
     <ul>
         <ul>
            <li><b><a href="https://security.microsoft.com/configurationAnalyzer">Configuration analyzer for protection policies in EOP and Microsoft Defender for Office 365</a></b><i></i></li>
-        <li><b><a href="https://admin.exchange.microsoft.com/#/transportrules">EXO Mail\Flow\Rules</a></b><i></i></li>
-            
-        </ul>
+            <li><b><a href="https://admin.exchange.microsoft.com/#/transportrules">EXO Mail\Flow\Rules</a></b><i></i></li>
+            </ul>
     </ul>
 </details>
