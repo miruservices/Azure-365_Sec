@@ -22,13 +22,22 @@ This github repository contains a collection of direct links to security related
 
 
 <details open>
-    <summary><b>Azure</b></summary>
+    <summary><b>Azure Config Blades</b></summary>
     <ul>
         <ul>
             <li><b><a href="https://aad.portal.azure.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/AdminAuthMethods">Azure AD Authentication methods | Policies</a></b><i></i></li>
             <li><b><a href="https://aad.portal.azure.com/#view/Microsoft_AAD_IAM/IdentityProtectionMenuBlade/~/Overview">Azure AD Identity Protection</a></b><i></i></li>
             <li><b><a href="https://aad.portal.azure.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/PasswordProtection">Azure AD Password Protection</a></b><i></i></li>
             <li><b><a href="https://aad.portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Properties">Azure Security Default and Tenant properties</a></b><i></i></li>
+        </ul>
+    </ul>
+</details>
+
+<details open>
+    <summary><b>Azure Docs</b></summary>
+    <ul>
+        <ul>
+            <li><b><a href="https://learn.microsoft.com/en-us/azure/azure-monitor/reference/tables/tables-resourcetype">Azure Monitor Logs table reference organized by resource type</a></b><i></i></li>
         </ul>
     </ul>
 </details>
