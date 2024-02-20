@@ -29,6 +29,7 @@ This github repository contains a collection of direct links to security related
             <li><b><a href="https://aad.portal.azure.com/#view/Microsoft_AAD_IAM/IdentityProtectionMenuBlade/~/Overview">Azure AD Identity Protection</a></b><i></i></li>
             <li><b><a href="https://aad.portal.azure.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/PasswordProtection">Azure AD Password Protection</a></b><i></i></li>
             <li><b><a href="https://aad.portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Properties">Azure Security Default and Tenant properties</a></b><i></i></li>
+            <li><b><a href="https://portal.azure.com/#view/Microsoft_Azure_PIMCommon/ResourceMenuBlade/~/roles/resourceId//resourceType/tenant/provider/aadroles">Check for members in role Partner Tier2 Support</a></b><i></i></li>
         </ul>
     </ul>
 </details>
